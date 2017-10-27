@@ -29,6 +29,7 @@ public class ProductoBean implements Serializable {
     private String reclinable;
     private String espesor;
     private String estadoProducto;
+    //metodos set and get
 	public String getIdProducto() {
 		return idProducto;
 	}
